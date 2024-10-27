@@ -642,7 +642,7 @@ revealer box.view { background-color: transparent; }
 
 headerbar button { font-weight: bold; }
 
-headerbar button:not(.text-button):not(.titlebutton) { border-color: transparent; background-color: transparent; background-image: none; box-shadow: none; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94), background-size 300ms cubic-bezier(0.25, 0.46, 0.45, 0.94), background-image 300ms cubic-bezier(0.25, 0.46, 0.45, 0.94); background-image: radial-gradient(circle farthest-corner at center, transparent 10%, transparent 0%); background-repeat: no-repeat; background-position: center; background-size: 1000% 1000%; }
+headerbar button:not(.text-button):not(.titlebutton) { border-color: transparent; background-color: none; background-image: none; box-shadow: none; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94), background-size 300ms cubic-bezier(0.25, 0.46, 0.45, 0.94), background-image 300ms cubic-bezier(0.25, 0.46, 0.45, 0.94); background-image: radial-gradient(circle farthest-corner at center, transparent 10%, transparent 0%); background-repeat: no-repeat; background-position: center; background-size: 1000% 1000%; }
 
 headerbar button:not(.text-button):not(.titlebutton):hover { color: #19483e; outline-color: rgba(25, 72, 62, 0.3); background-color: #dae3e2; background-image: none; box-shadow: 0 2px 4px rgba(25, 72, 62, 0.075); box-shadow: none; }
 
@@ -699,6 +699,10 @@ headerbar stackswitcher button:first-child:dir(rtl), headerbar .stack-switcher b
 headerbar stackswitcher button:last-child:dir(ltr), headerbar .stack-switcher button:last-child:dir(ltr), headerbar stackswitcher.linked button:last-child:dir(ltr), headerbar .stack-switcher.linked button:last-child:dir(ltr) { margin-right: 4px; }
 
 headerbar stackswitcher button:last-child:dir(rtl), headerbar .stack-switcher button:last-child:dir(rtl), headerbar stackswitcher.linked button:last-child:dir(rtl), headerbar .stack-switcher.linked button:last-child:dir(rtl) { margin-left: 4px; }
+
+#MozillaGtkWidget.background headerbar button.close:hover, headerbar button.close:hover { color: #fa4444; background-color: #f7dede; }
+
+#MozillaGtkWidget.background headerbar button.close:active, #MozillaGtkWidget.background headerbar button.close:checked, headerbar button.close:active, headerbar button.close:checked { color: #fa4444; background-color: #f7d5d5; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94), background-size 0, background-image 0; animation: ripple_effect 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards; background-image: radial-gradient(circle farthest-corner at center, #f7d5d5 10%, transparent 0%); background-size: 0% 0%; }
 
 headerbar.titlebar headerbar:not(.titlebar) { background: none; box-shadow: none; }
 
@@ -837,7 +841,9 @@ menubar:backdrop, .menubar:backdrop { background-color: #f8f8f8; }
 
 menubar > menuitem, .menubar > menuitem { min-height: 16px; padding: 4px 8px; border-radius: 8px; }
 
-menubar > menuitem:hover, .menubar > menuitem:hover { box-shadow: none; background-color: #e0e7e6; }
+menubar > menuitem menu:dir(rtl), menubar > menuitem menu:dir(ltr), .menubar > menuitem menu:dir(rtl), .menubar > menuitem menu:dir(ltr) { border-radius: 8; padding: 0; }
+
+menubar > menuitem:hover, .menubar > menuitem:hover { box-shadow: inset 0 -3px #2ac88d; background-color: #e0e7e6; color: #219e6f; }
 
 menubar > menuitem:disabled, .menubar > menuitem:disabled { color: #88a19c; background-color: transparent; box-shadow: none; }
 
@@ -849,9 +855,9 @@ menu, .menu, .context-menu { margin: 6px; padding: 6px; background-color: white;
 
 menu:backdrop, .menu:backdrop, .context-menu:backdrop { background-color: white; border-color: rgba(236, 236, 236, 0.75); }
 
-menu menuitem, .menu menuitem, .context-menu menuitem { min-height: 16px; min-width: 40px; padding: 6px; border-radius: 8px; text-shadow: none; }
+menu menuitem, .menu menuitem, .context-menu menuitem { min-height: 16px; min-width: 40px; padding: 4px 6px; border-radius: 8px; text-shadow: none; }
 
-menu menuitem:hover, .menu menuitem:hover, .context-menu menuitem:hover { color: #19483e; background-color: #e0e7e6; }
+menu menuitem:hover, .menu menuitem:hover, .context-menu menuitem:hover { color: white; background-color: #2ac88d; background: linear-gradient(to right, #1bbe81, #2ae18e); }
 
 menu menuitem:disabled, .menu menuitem:disabled, .context-menu menuitem:disabled { color: #88a19c; }
 
