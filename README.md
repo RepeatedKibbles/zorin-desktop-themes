@@ -3,6 +3,7 @@
 The Zorin OS desktop theme provided in a variety of color combinations.
 
 Changes:
+
 Before:
 ![screenshot](./assets/Before/Screenshot_20241105_152210.png)
 ![screenshot](./assets/Before/Screenshot_20241105_150739.png)
