@@ -2,7 +2,7 @@
 
 The Zorin OS desktop theme provided in a variety of color combinations.
 
-Changes:
+## Changes:
 
 <p align="middle">Before:</p>
 
