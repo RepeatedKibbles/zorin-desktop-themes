@@ -680,7 +680,7 @@ headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:active, h
 
 headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:active label, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:active, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:checked label, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:checked { color: #4c3e39; }
 
-headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr), headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl) { border-style: solid; border-width: 0 1px 0 0; border-color: #372b26; margin-left: 0; margin-right: 0; }
+headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr), headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl) { border-style: solid; border-width: 0 1px 0 0; border-color: #52403a; margin-left: 0; margin-right: 0; }
 
 headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr):backdrop, headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl):backdrop { border-color: #312824; }
 
