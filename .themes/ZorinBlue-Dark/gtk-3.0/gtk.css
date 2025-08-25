@@ -610,21 +610,9 @@ headerbar button:not(.text-button):not(.titlebutton):backdrop:checked { backgrou
 
 headerbar button:not(.text-button):not(.titlebutton):backdrop:checked label, headerbar button:not(.text-button):not(.titlebutton):backdrop:checked { color: #71848d; }
 
-headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr), headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl) { border-style: solid; border-width: 0 1px 0 0; border-color: #2d3940; margin-left: 0; margin-right: 0; }
+headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr), headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl) { border-style: solid; border-width: 0 1px 0 0; border-color: #415159; margin-left: 0; margin-right: 0; }
 
-<<<<<<< HEAD:.themes/ZorinBlue-Dark/gtk-3.0/gtk.css
-headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled label, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled { color: #3b494d; }
-
-headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:active, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:checked { background-color: #272f33; box-shadow: none; background-image: none; }
-
-headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:active label, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:active, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:checked label, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:checked { color: #3b494d; }
-
-headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr), headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl) { border-style: solid; border-width: 0 1px 0 0; border-color: #3d4c53; margin-left: 0; margin-right: 0; }
-
-headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr):backdrop, headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl):backdrop { border-color: #283033; }
-=======
 headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr):backdrop, headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl):backdrop { border-color: #2b343a; }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinBlue-Dark/gtk-3.0/gtk.css
 
 headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr):last-child, headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr):only-child, headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl):last-child, headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl):only-child { border: none; }
 
@@ -767,13 +755,7 @@ menubar:backdrop, .menubar:backdrop { background-color: #1e2428; }
 
 menubar > menuitem, .menubar > menuitem { min-height: 16px; padding: 4px 8px; border-radius: 9px; }
 
-<<<<<<< HEAD:.themes/ZorinBlue-Dark/gtk-3.0/gtk.css
-menubar > menuitem menu:dir(rtl), menubar > menuitem menu:dir(ltr), .menubar > menuitem menu:dir(rtl), .menubar > menuitem menu:dir(ltr) { border-radius: 8; padding: 0; }
-
-menubar > menuitem:hover, .menubar > menuitem:hover { box-shadow: inset 0 -3px #bde6fb; background-color: #2e393e; color: #edf8fe; }
-=======
-menubar > menuitem:hover, .menubar > menuitem:hover { box-shadow: none; background-color: #313e45; }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinBlue-Dark/gtk-3.0/gtk.css
+menubar > menuitem:hover, .menubar > menuitem:hover { box-shadow: inset 0 -3px #bde6fb; background-color: #313e45; color: #bde6fb; }
 
 menubar > menuitem:disabled, .menubar > menuitem:disabled { color: #6f8896; background-color: transparent; box-shadow: none; }
 
@@ -785,15 +767,9 @@ menu, .menu, .context-menu { margin: 6px; padding: 6px; background-color: #161c1
 
 menu:backdrop, .menu:backdrop, .context-menu:backdrop { background-color: #171c1f; border-color: rgba(43, 52, 58, 0.75); }
 
-<<<<<<< HEAD:.themes/ZorinBlue-Dark/gtk-3.0/gtk.css
-menu menuitem, .menu menuitem, .context-menu menuitem { min-height: 16px; min-width: 40px; padding: 4px 6px; border-radius: 8px; text-shadow: none; }
-
-menu menuitem:hover, .menu menuitem:hover, .context-menu menuitem:hover { color: #171d20; background-color: #2e393e; background: image(#bde6fb); }
-=======
 menu menuitem, .menu menuitem, .context-menu menuitem { min-height: 16px; min-width: 40px; padding: 6px; border-radius: 9px; text-shadow: none; font-weight: normal; }
 
-menu menuitem:hover, .menu menuitem:hover, .context-menu menuitem:hover { color: #bde6fb; background-color: #313e45; }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinBlue-Dark/gtk-3.0/gtk.css
+menu menuitem:hover, .menu menuitem:hover, .context-menu menuitem:hover { color: #171c1f; background-color: #313e45; background: image(#bde6fb); }
 
 menu menuitem:disabled, .menu menuitem:disabled, .context-menu menuitem:disabled { color: #6f8896; }
 
@@ -865,11 +841,7 @@ notebook > header > tabs > arrow:hover:not(:active):not(:backdrop) { background-
 
 notebook > header > tabs > arrow:disabled { opacity: 0.5; }
 
-<<<<<<< HEAD:.themes/ZorinBlue-Dark/gtk-3.0/gtk.css
-notebook > header tab { min-height: 24px; min-width: 30px; padding: 0px 9px; margin: 2px; outline-offset: -3px; border-radius: 8px; color: #9cbecf; font-weight: normal; border-style: none; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
-=======
 notebook > header tab { min-height: 24px; min-width: 30px; padding: 2px 9px; margin: 2px; outline-offset: -3px; border-radius: 9px; color: #9bbdcf; font-weight: normal; border-style: none; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinBlue-Dark/gtk-3.0/gtk.css
 
 notebook > header tab:hover { color: #bde6fb; background-color: rgba(189, 230, 251, 0.05); box-shadow: none; }
 
@@ -1135,7 +1107,7 @@ scale trough { outline-offset: 2px; -gtk-outline-radius: 9px; }
 
 scale fill:backdrop, scale fill { background-color: #2d3940; }
 
-scale slider { border: 2px solid #bde6fb; border-radius: 100%; background-color: #1e2529; box-shadow: 0 1.5px 2px 1px rgba(0, 0, 0, 0.4), 0 0 0 1px transparent; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); transition-property: background, border, box-shadow; }
+scale slider { border: none; border-radius: 100%; background-color: #bde6fb; box-shadow: 0 1.5px 2px 1px rgba(0, 0, 0, 0.4), 0 0 0 1px transparent; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); transition-property: background, border, box-shadow; }
 
 scale slider:hover, row scale slider:hover, popover scale slider:hover { background-color: #d5effc; box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.4), 0 0 0 1px transparent; }
 

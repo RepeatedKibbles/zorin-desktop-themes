@@ -184,7 +184,7 @@ treeview entry.flat, treeview entry { border: none; border-radius: 0; background
 
 /*********** Buttons * */
 @keyframes needs_attention { from { background-image: -gtk-gradient(radial, center center, 0, center center, 0.01, to(#d8c4f1), to(transparent)); }
-to { background-image: -gtk-gradient(radial, center center, 0, center center, 0.5, to(#d8c4f1), to(transparent)); } }
+  to { background-image: -gtk-gradient(radial, center center, 0, center center, 0.5, to(#d8c4f1), to(transparent)); } }
 
 button.titlebutton, notebook > header > tabs > arrow, viewswitcher button, headerbar viewswitcher button:not(.text-button):not(.titlebutton), button { min-height: 24px; min-width: 16px; padding: 4px 9px; border: none; border-radius: 9px; font-weight: normal; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94), background-size 300ms cubic-bezier(0.25, 0.46, 0.45, 0.94), background-image 300ms cubic-bezier(0.25, 0.46, 0.45, 0.94); background-image: radial-gradient(circle farthest-corner at center, transparent 10%, transparent 0%); background-repeat: no-repeat; background-position: center; background-size: 1000% 1000%; color: #d8c4f1; outline-color: rgba(216, 196, 241, 0.3); background-color: #352f3c; background-image: none; box-shadow: none; }
 
@@ -515,13 +515,8 @@ revealer box.view { background-color: transparent; }
 .inline-toolbar:backdrop, searchbar > revealer > box:backdrop, .location-bar:backdrop { background-color: #221f25; }
 
 /*************** Header bars * */
-<<<<<<< HEAD:.themes/ZorinPurple-Dark/gtk-3.0/gtk-dark.css
-@keyframes header_ripple_effect { from { background-image: radial-gradient(circle farthest-corner at center, #221f26 0%, transparent 0%); }
-to { background-image: radial-gradient(circle farthest-corner at center, #d8c4f1 100%, transparent 0%); } }
-=======
 @keyframes header_ripple_effect { from { background-image: radial-gradient(circle farthest-corner at center, #28232d 0%, transparent 0%); }
   to { background-image: radial-gradient(circle farthest-corner at center, #d8c4f1 100%, transparent 0%); } }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinPurple-Light/gtk-3.0/gtk-dark.css
 
 .titlebar:not(headerbar), headerbar { padding: 0 6px; min-height: 44px; border: none; border-radius: 0; background-color: #28232d; /* hide the close button separator */ }
 
@@ -615,21 +610,9 @@ headerbar button:not(.text-button):not(.titlebutton):backdrop:checked { backgrou
 
 headerbar button:not(.text-button):not(.titlebutton):backdrop:checked label, headerbar button:not(.text-button):not(.titlebutton):backdrop:checked { color: #7d7687; }
 
-headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr), headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl) { border-style: solid; border-width: 0 1px 0 0; border-color: #352f3c; margin-left: 0; margin-right: 0; }
+headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr), headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl) { border-style: solid; border-width: 0 1px 0 0; border-color: #4b4354; margin-left: 0; margin-right: 0; }
 
-<<<<<<< HEAD:.themes/ZorinPurple-Dark/gtk-3.0/gtk-dark.css
-headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled label, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled { color: #433e49; }
-
-headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:active, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:checked { background-color: #2b2830; box-shadow: none; background-image: none; }
-
-headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:active label, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:active, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:checked label, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:checked { color: #433e49; }
-
-headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr), headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl) { border-style: solid; border-width: 0 1px 0 0; border-color: #47404f; margin-left: 0; margin-right: 0; }
-
-headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr):backdrop, headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl):backdrop { border-color: #2c2930; }
-=======
 headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr):backdrop, headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl):backdrop { border-color: #312d36; }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinPurple-Light/gtk-3.0/gtk-dark.css
 
 headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr):last-child, headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr):only-child, headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl):last-child, headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl):only-child { border: none; }
 
@@ -772,13 +755,7 @@ menubar:backdrop, .menubar:backdrop { background-color: #221f25; }
 
 menubar > menuitem, .menubar > menuitem { min-height: 16px; padding: 4px 8px; border-radius: 9px; }
 
-<<<<<<< HEAD:.themes/ZorinPurple-Dark/gtk-3.0/gtk-dark.css
-menubar > menuitem menu:dir(rtl), menubar > menuitem menu:dir(ltr), .menubar > menuitem menu:dir(rtl), .menubar > menuitem menu:dir(ltr) { border-radius: 8; padding: 0; }
-
-menubar > menuitem:hover, .menubar > menuitem:hover { box-shadow: inset 0 -3px #d8c4f1; background-color: #342f3b; color: #f3edfb; }
-=======
-menubar > menuitem:hover, .menubar > menuitem:hover { box-shadow: none; background-color: #393341; }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinPurple-Light/gtk-3.0/gtk-dark.css
+menubar > menuitem:hover, .menubar > menuitem:hover { box-shadow: inset 0 -3px #d8c4f1; background-color: #393341; color: #d8c4f1; }
 
 menubar > menuitem:disabled, .menubar > menuitem:disabled { color: #80748f; background-color: transparent; box-shadow: none; }
 
@@ -790,15 +767,9 @@ menu, .menu, .context-menu { margin: 6px; padding: 6px; background-color: #1a171
 
 menu:backdrop, .menu:backdrop, .context-menu:backdrop { background-color: #1a181d; border-color: rgba(49, 45, 54, 0.75); }
 
-<<<<<<< HEAD:.themes/ZorinPurple-Dark/gtk-3.0/gtk-dark.css
-menu menuitem, .menu menuitem, .context-menu menuitem { min-height: 16px; min-width: 40px; padding: 4px 6px; border-radius: 8px; text-shadow: none; }
-
-menu menuitem:hover, .menu menuitem:hover, .context-menu menuitem:hover { color: #1a181e; background-color: #d8c4f1; background: image(#d8c4f1); }
-=======
 menu menuitem, .menu menuitem, .context-menu menuitem { min-height: 16px; min-width: 40px; padding: 6px; border-radius: 9px; text-shadow: none; font-weight: normal; }
 
-menu menuitem:hover, .menu menuitem:hover, .context-menu menuitem:hover { color: #d8c4f1; background-color: #393341; }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinPurple-Light/gtk-3.0/gtk-dark.css
+menu menuitem:hover, .menu menuitem:hover, .context-menu menuitem:hover { color: #1a181d; background-color: #393341; background: image(#d8c4f1); }
 
 menu menuitem:disabled, .menu menuitem:disabled, .context-menu menuitem:disabled { color: #80748f; }
 
@@ -870,11 +841,7 @@ notebook > header > tabs > arrow:hover:not(:active):not(:backdrop) { background-
 
 notebook > header > tabs > arrow:disabled { opacity: 0.5; }
 
-<<<<<<< HEAD:.themes/ZorinPurple-Dark/gtk-3.0/gtk-dark.css
-notebook > header tab { min-height: 24px; min-width: 30px; padding: 0px 9px; margin: 2px; outline-offset: -3px; border-radius: 8px; color: #b2a2c6; font-weight: normal; border-style: none; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
-=======
 notebook > header tab { min-height: 24px; min-width: 30px; padding: 2px 9px; margin: 2px; outline-offset: -3px; border-radius: 9px; color: #b2a2c6; font-weight: normal; border-style: none; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinPurple-Light/gtk-3.0/gtk-dark.css
 
 notebook > header tab:hover { color: #d8c4f1; background-color: rgba(216, 196, 241, 0.05); box-shadow: none; }
 
@@ -1140,7 +1107,7 @@ scale trough { outline-offset: 2px; -gtk-outline-radius: 9px; }
 
 scale fill:backdrop, scale fill { background-color: #352f3c; }
 
-scale slider { border: 2px solid #d8c4f1; border-radius: 100%; background-color: #221f26; box-shadow: 0 1.5px 2px 1px rgba(0, 0, 0, 0.4), 0 0 0 1px transparent; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); transition-property: background, border, box-shadow; }
+scale slider { border: none; border-radius: 100%; background-color: #d8c4f1; box-shadow: 0 1.5px 2px 1px rgba(0, 0, 0, 0.4), 0 0 0 1px transparent; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); transition-property: background, border, box-shadow; }
 
 scale slider:hover, row scale slider:hover, popover scale slider:hover { background-color: #e6d9f6; box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.4), 0 0 0 1px transparent; }
 
@@ -1260,7 +1227,7 @@ scale.color.fine-tune.vertical:dir(rtl) slider { margin-right: -15px; margin-lef
 
 /***************** Progress bars * */
 @keyframes progress { from { background-position: 0, calc(0% - 64px), 0%; }
-to { background-position: 0, calc(100% + 64px), 0%; } }
+  to { background-position: 0, calc(100% + 64px), 0%; } }
 
 progressbar { font-size: smaller; color: rgba(216, 196, 241, 0.4); font-feature-settings: "tnum"; }
 
@@ -2312,38 +2279,12 @@ XfdesktopIconView.view .label { text-shadow: 1px 1px 2px black; }
 
 /* GTK NAMED COLORS ---------------- use responsibly! */
 /*
- *widget text/foreground color */
+widget text/foreground color */
 @define-color theme_fg_color #d8c4f1;
 /*
- *text color for entries, views and content in general */
+text color for entries, views and content in general */
 @define-color theme_text_color #d8c4f1;
 /*
-<<<<<<< HEAD:.themes/ZorinPurple-Dark/gtk-3.0/gtk-dark.css
- *widget base background color */
-@define-color theme_bg_color #221f26;
-/*
- *text widgets and the like base background color */
-@define-color theme_base_color #1a181e;
-/*
- *base background color of selections */
-@define-color theme_selected_bg_color #c6b4dc;
-/* Tinting in dark variant to avoid a white selection on white page background when highlighting text in Evince when using Grey-Dark theme */
-/*
- *text/foreground color of selections */
-@define-color theme_selected_fg_color #1a181e;
-/*
- *base background color of insensitive widgets */
-@define-color insensitive_bg_color #221f26;
-/*
- *text foreground color of insensitive widgets */
-@define-color insensitive_fg_color #7d718c;
-/*
- *insensitive text widgets and the like base background color */
-@define-color insensitive_base_color #1a181e;
-/*
- *widget text/foreground color on backdrop windows */
-@define-color theme_unfocused_fg_color #7b7484;
-=======
 widget base background color */
 @define-color theme_bg_color #28232d;
 /*
@@ -2368,41 +2309,19 @@ insensitive text widgets and the like base background color */
 /*
 widget text/foreground color on backdrop windows */
 @define-color theme_unfocused_fg_color #7d7687;
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinPurple-Light/gtk-3.0/gtk-dark.css
 /*
- *text color for entries, views and content in general on backdrop windows */
+text color for entries, views and content in general on backdrop windows */
 @define-color theme_unfocused_text_color #d8c4f1;
 /*
-<<<<<<< HEAD:.themes/ZorinPurple-Dark/gtk-3.0/gtk-dark.css
- *widget base background color on backdrop windows */
-@define-color theme_unfocused_bg_color #1d1b20;
-/*
- *text widgets and the like base background color on backdrop windows */
-@define-color theme_unfocused_base_color #161519;
-=======
 widget base background color on backdrop windows */
 @define-color theme_unfocused_bg_color #221f25;
 /*
 text widgets and the like base background color on backdrop windows */
 @define-color theme_unfocused_base_color #1a181d;
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinPurple-Light/gtk-3.0/gtk-dark.css
 /*
- *base background color of selections on backdrop windows */
+base background color of selections on backdrop windows */
 @define-color theme_unfocused_selected_bg_color #d8c4f1;
 /*
-<<<<<<< HEAD:.themes/ZorinPurple-Dark/gtk-3.0/gtk-dark.css
- *text/foreground color of selections on backdrop windows */
-@define-color theme_unfocused_selected_fg_color #1a181e;
-/*
- *insensitive color on backdrop windows*/
-@define-color unfocused_insensitive_color #433e49;
-/*
- *widgets main borders color */
-@define-color borders #302b36;
-/*
- *widgets main borders color on backdrop windows */
-@define-color unfocused_borders #2c2930;
-=======
 text/foreground color of selections on backdrop windows */
 @define-color theme_unfocused_selected_fg_color #1a171d;
 /*
@@ -2414,16 +2333,15 @@ widgets main borders color */
 /*
 widgets main borders color on backdrop windows */
 @define-color unfocused_borders #312d36;
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinPurple-Light/gtk-3.0/gtk-dark.css
 /*
- *these are pretty self explicative */
+these are pretty self explicative */
 @define-color placeholder_text_color #796e87;
 @define-color warning_color #faa483;
 @define-color error_color #fb7c7c;
 @define-color success_color #6ee1b6;
 /*
- * these colors are exported for the window manager and shouldn't be used in applications,
- * read if you used those and something break with a version upgrade you're on your own... */
+these colors are exported for the window manager and shouldn't be used in applications,
+read if you used those and something break with a version upgrade you're on your own... */
 @define-color wm_title shade(#d8c4f1, 1.8);
 @define-color wm_unfocused_title #7d7687;
 @define-color wm_highlight transparent;

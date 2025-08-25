@@ -610,21 +610,9 @@ headerbar button:not(.text-button):not(.titlebutton):backdrop:checked { backgrou
 
 headerbar button:not(.text-button):not(.titlebutton):backdrop:checked label, headerbar button:not(.text-button):not(.titlebutton):backdrop:checked { color: #868686; }
 
-headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr), headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl) { border-style: solid; border-width: 0 1px 0 0; border-color: #eae3de; margin-left: 0; margin-right: 0; }
+headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr), headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl) { border-style: solid; border-width: 0 1px 0 0; border-color: #d6cdc5; margin-left: 0; margin-right: 0; }
 
-<<<<<<< HEAD:.themes/ZorinOrange-Light/gtk-3.0/gtk.css
-headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled label, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled { color: #d2d2d2; }
-
-headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:active, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:checked { background-color: #f0f0f0; box-shadow: none; background-image: none; }
-
-headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:active label, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:active, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:checked label, headerbar button:not(.text-button):not(.titlebutton):backdrop:disabled:checked { color: #d2d2d2; }
-
-headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr), headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl) { border-style: solid; border-width: 0 1px 0 0; border-color: #d9d2cd; margin-left: 0; margin-right: 0; }
-
-headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr):backdrop, headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl):backdrop { border-color: #ededed; }
-=======
 headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr):backdrop, headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl):backdrop { border-color: #e7e7e7; }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinOrange-Light/gtk-3.0/gtk.css
 
 headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr):last-child, headerbar .linked:not(.vertical) > button:not(.text-button):dir(ltr):only-child, headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl):last-child, headerbar .linked:not(.vertical) > button:not(.text-button):dir(rtl):only-child { border: none; }
 
@@ -767,13 +755,7 @@ menubar:backdrop, .menubar:backdrop { background-color: #f2f2f2; }
 
 menubar > menuitem, .menubar > menuitem { min-height: 16px; padding: 4px 8px; border-radius: 9px; }
 
-<<<<<<< HEAD:.themes/ZorinOrange-Light/gtk-3.0/gtk.css
-menubar > menuitem menu:dir(rtl), menubar > menuitem menu:dir(ltr), .menubar > menuitem menu:dir(rtl), .menubar > menuitem menu:dir(ltr) { border-radius: 8; padding: 0; }
-
-menubar > menuitem:hover, .menubar > menuitem:hover { box-shadow: inset 0 -3px #f88052; background-color: #eae5e2; color: #f65c21; }
-=======
-menubar > menuitem:hover, .menubar > menuitem:hover { box-shadow: none; background-color: #e6dfd9; }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinOrange-Light/gtk-3.0/gtk.css
+menubar > menuitem:hover, .menubar > menuitem:hover { box-shadow: inset 0 -3px #f88052; background-color: #e6dfd9; color: #f88052; }
 
 menubar > menuitem:disabled, .menubar > menuitem:disabled { color: #a69689; background-color: transparent; box-shadow: none; }
 
@@ -785,15 +767,9 @@ menu, .menu, .context-menu { margin: 6px; padding: 6px; background-color: white;
 
 menu:backdrop, .menu:backdrop, .context-menu:backdrop { background-color: white; border-color: rgba(231, 231, 231, 0.75); }
 
-<<<<<<< HEAD:.themes/ZorinOrange-Light/gtk-3.0/gtk.css
-menu menuitem, .menu menuitem, .context-menu menuitem { min-height: 16px; min-width: 40px; padding: 4px 6px; border-radius: 8px; text-shadow: none; }
-
-menu menuitem:hover, .menu menuitem:hover, .context-menu menuitem:hover { color: white; background-color: #f88052; background: linear-gradient(to right, #ff6a32, #ff8265); }
-=======
 menu menuitem, .menu menuitem, .context-menu menuitem { min-height: 16px; min-width: 40px; padding: 6px; border-radius: 9px; text-shadow: none; font-weight: normal; }
 
-menu menuitem:hover, .menu menuitem:hover, .context-menu menuitem:hover { color: #563b25; background-color: #e6dfd9; }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinOrange-Light/gtk-3.0/gtk.css
+menu menuitem:hover, .menu menuitem:hover, .context-menu menuitem:hover { color: white; background-color: #e6dfd9; background: linear-gradient(to right, #ff6a32, #ff8265); }
 
 menu menuitem:disabled, .menu menuitem:disabled, .context-menu menuitem:disabled { color: #a69689; }
 
@@ -865,11 +841,7 @@ notebook > header > tabs > arrow:hover:not(:active):not(:backdrop) { background-
 
 notebook > header > tabs > arrow:disabled { opacity: 0.5; }
 
-<<<<<<< HEAD:.themes/ZorinOrange-Light/gtk-3.0/gtk.css
-notebook > header tab { min-height: 24px; min-width: 30px; padding: 0px 9px; margin: 2px; outline-offset: -3px; border-radius: 8px; color: #745e4c; font-weight: normal; border-style: none; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
-=======
 notebook > header tab { min-height: 24px; min-width: 30px; padding: 2px 9px; margin: 2px; outline-offset: -3px; border-radius: 9px; color: #745d4a; font-weight: normal; border-style: none; transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinOrange-Light/gtk-3.0/gtk.css
 
 notebook > header tab:hover { color: #563b25; background-color: rgba(86, 59, 37, 0.05); box-shadow: none; }
 
@@ -1137,15 +1109,11 @@ scale trough { outline-offset: 2px; -gtk-outline-radius: 9px; }
 
 scale fill:backdrop, scale fill { background-color: #eae3de; }
 
-scale slider { border: 2px solid #ff8265; border-radius: 100%; background-color: white; box-shadow: 0 1.5px 2px 1px rgba(86, 59, 37, 0.225), 0 0 0 1px rgba(86, 59, 37, 0.1); transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); transition-property: background, border, box-shadow; }
+scale slider { border: none; border-radius: 100%; background-color: white; box-shadow: 0 1.5px 2px 1px rgba(86, 59, 37, 0.225), 0 0 0 1px rgba(86, 59, 37, 0.1); transition: all 150ms cubic-bezier(0.25, 0.46, 0.45, 0.94); transition-property: background, border, box-shadow; }
 
-scale slider:hover, row scale slider:hover, popover scale slider:hover { background-color: #fead74; box-shadow: 0 2px 3px 1px rgba(86, 59, 37, 0.225), 0 0 0 1px rgba(86, 59, 37, 0.15); }
+scale slider:hover, row scale slider:hover, popover scale slider:hover { background-color: white; box-shadow: 0 2px 3px 1px rgba(86, 59, 37, 0.225), 0 0 0 1px rgba(86, 59, 37, 0.15); }
 
-<<<<<<< HEAD:.themes/ZorinOrange-Light/gtk-3.0/gtk.css
-scale slider:active, row scale slider:active, popover scale slider:active { background-color: #ff8265; box-shadow: 0 1.5px 2px 1px rgba(248, 128, 82, 0.2), 0 0 0 1px rgba(226, 119, 76, 0.325); }
-=======
 scale slider:active, row scale slider:active, popover scale slider:active { background-color: white; box-shadow: 0 0 0 2px rgba(248, 128, 82, 0.5); }
->>>>>>> d0857a418ec5a7ef9ecd6d0462d35fd6663339f1:ZorinOrange-Light/gtk-3.0/gtk.css
 
 scale slider:disabled { box-shadow: 0 0 0 1px rgba(86, 59, 37, 0.1); }
 
