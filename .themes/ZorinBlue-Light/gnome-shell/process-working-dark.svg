@@ -47,19 +47,59 @@
       <stop
          id="stop8233-28-5-27-1"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0.15428571"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop8235-7-3-94-3" />
       <stop
          id="stop8237-7-8-20-2"
          offset="0.54270232"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.33714285" />
       <stop
          id="stop8239-2-9-1-9"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.33714285" />
+      <stop
+         id="stop8239-2-9-1-9"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.33714285" />
+      <stop
+         id="stop8239-2-9-1-9"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -77,19 +117,59 @@
       <stop
          id="stop5769-0"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop5771-1" />
       <stop
          id="stop5773-7"
          offset="0.75051737"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.42857143" />
       <stop
          id="stop5775-8"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.42857143" />
+      <stop
+         id="stop5775-8"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.42857143" />
+      <stop
+         id="stop5775-8"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -107,19 +187,59 @@
       <stop
          id="stop10259"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0.15428571"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10261" />
       <stop
          id="stop10263"
          offset="0.54270232"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.33714285" />
       <stop
          id="stop10265"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.33714285" />
+      <stop
+         id="stop10265"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.33714285" />
+      <stop
+         id="stop10265"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -137,19 +257,59 @@
       <stop
          id="stop10271"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10273" />
       <stop
          id="stop10275"
          offset="0.75051737"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.42857143" />
       <stop
          id="stop10277"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.42857143" />
+      <stop
+         id="stop10277"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.42857143" />
+      <stop
+         id="stop10277"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -167,19 +327,59 @@
       <stop
          id="stop10283"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0.15428571"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10285" />
       <stop
          id="stop10287"
          offset="0.54270232"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.33714285" />
       <stop
          id="stop10289"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.33714285" />
+      <stop
+         id="stop10289"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.33714285" />
+      <stop
+         id="stop10289"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -197,19 +397,59 @@
       <stop
          id="stop10295"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10297" />
       <stop
          id="stop10299"
          offset="0.75051737"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.42857143" />
       <stop
          id="stop10301"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.42857143" />
+      <stop
+         id="stop10301"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.42857143" />
+      <stop
+         id="stop10301"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -227,19 +467,59 @@
       <stop
          id="stop10307"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0.15428571"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10309" />
       <stop
          id="stop10311"
          offset="0.54270232"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.33714285" />
       <stop
          id="stop10313"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.33714285" />
+      <stop
+         id="stop10313"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.33714285" />
+      <stop
+         id="stop10313"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -257,19 +537,59 @@
       <stop
          id="stop10319"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10321" />
       <stop
          id="stop10323"
          offset="0.75051737"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.42857143" />
       <stop
          id="stop10325"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.42857143" />
+      <stop
+         id="stop10325"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.42857143" />
+      <stop
+         id="stop10325"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -287,19 +607,59 @@
       <stop
          id="stop10331"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0.15428571"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10333" />
       <stop
          id="stop10335"
          offset="0.54270232"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.33714285" />
       <stop
          id="stop10337"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.33714285" />
+      <stop
+         id="stop10337"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.33714285" />
+      <stop
+         id="stop10337"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -317,19 +677,59 @@
       <stop
          id="stop10343"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10345" />
       <stop
          id="stop10347"
          offset="0.75051737"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.42857143" />
       <stop
          id="stop10349"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.42857143" />
+      <stop
+         id="stop10349"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.42857143" />
+      <stop
+         id="stop10349"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -347,19 +747,59 @@
       <stop
          id="stop10355"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0.15428571"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10357" />
       <stop
          id="stop10359"
          offset="0.54270232"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.33714285" />
       <stop
          id="stop10361"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.33714285" />
+      <stop
+         id="stop10361"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.33714285" />
+      <stop
+         id="stop10361"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -377,19 +817,59 @@
       <stop
          id="stop10367"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10369" />
       <stop
          id="stop10371"
          offset="0.75051737"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.42857143" />
       <stop
          id="stop10373"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.42857143" />
+      <stop
+         id="stop10373"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.42857143" />
+      <stop
+         id="stop10373"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -407,19 +887,59 @@
       <stop
          id="stop10379"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0.15428571"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10381" />
       <stop
          id="stop10383"
          offset="0.54270232"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.33714285" />
       <stop
          id="stop10385"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.33714285" />
+      <stop
+         id="stop10385"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.33714285" />
+      <stop
+         id="stop10385"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -437,19 +957,59 @@
       <stop
          id="stop10391"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10393" />
       <stop
          id="stop10395"
          offset="0.75051737"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.42857143" />
       <stop
          id="stop10397"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.42857143" />
+      <stop
+         id="stop10397"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.42857143" />
+      <stop
+         id="stop10397"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -467,19 +1027,59 @@
       <stop
          id="stop10403"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0.15428571"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10405" />
       <stop
          id="stop10407"
          offset="0.54270232"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.33714285" />
       <stop
          id="stop10409"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.33714285" />
+      <stop
+         id="stop10409"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.33714285" />
+      <stop
+         id="stop10409"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -497,19 +1097,59 @@
       <stop
          id="stop10415"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10417" />
       <stop
          id="stop10419"
          offset="0.75051737"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.42857143" />
       <stop
          id="stop10421"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.42857143" />
+      <stop
+         id="stop10421"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.42857143" />
+      <stop
+         id="stop10421"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -527,19 +1167,59 @@
       <stop
          id="stop10427"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0.15428571"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0.15428571"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0.15428571"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10429" />
       <stop
          id="stop10431"
          offset="0.54270232"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.33714285" />
       <stop
          id="stop10433"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.33714285" />
+      <stop
+         id="stop10433"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.33714285" />
+      <stop
+         id="stop10433"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -557,19 +1237,59 @@
       <stop
          id="stop10439"
          offset="0"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0" />
       <stop
          style="stop-color:#bde6fb;stop-opacity:0"
+========
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+         style="stop-color:#123354;stop-opacity:0" />
+      <stop
+         style="stop-color:#123354;stop-opacity:0"
+========
+         style="stop-color:#bde6fb;stop-opacity:0" />
+      <stop
+         style="stop-color:#bde6fb;stop-opacity:0"
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
          offset="0.31861392"
          id="stop10441" />
       <stop
          id="stop10443"
          offset="0.75051737"
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
          style="stop-color:#bde6fb;stop-opacity:0.42857143" />
       <stop
          id="stop10445"
          offset="1"
          style="stop-color:#bde6fb;stop-opacity:1" />
+========
+=======
+<<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
+         style="stop-color:#123354;stop-opacity:0.42857143" />
+      <stop
+         id="stop10445"
+         offset="1"
+         style="stop-color:#123354;stop-opacity:1" />
+<<<<<<< HEAD:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-light.svg
+=======
+========
+         style="stop-color:#bde6fb;stop-opacity:0.42857143" />
+      <stop
+         id="stop10445"
+         offset="1"
+         style="stop-color:#bde6fb;stop-opacity:1" />
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:.themes/ZorinBlue-Light/gnome-shell/process-working-dark.svg
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/process-working-dark.svg
     </linearGradient>
     <radialGradient
        inkscape:collect="always"

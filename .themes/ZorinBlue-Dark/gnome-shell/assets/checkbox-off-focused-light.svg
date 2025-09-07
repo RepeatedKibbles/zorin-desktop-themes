@@ -1,1 +1,9 @@
+<<<<<<< HEAD:.themes/ZorinBlue-Dark/gnome-shell/assets/checkbox-off-focused-light.svg
+<<<<<<<< HEAD:.themes/ZorinBlue-Dark/gnome-shell/assets/checkbox-off-focused-light.svg
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22"><rect width="21" height="21" x=".5" y=".5" ry="4.5" fill="#f3f5f6" stroke="#bfcad6"/></svg>
+========
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22"><rect width="21" height="21" x=".5" y=".5" ry="4.5" fill="#1e262a" stroke="#415159"/></svg>
+>>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Light/gnome-shell/assets/checkbox-off-focused.svg
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22"><rect width="21" height="21" x=".5" y=".5" ry="4.5" fill="#f3f5f6" stroke="#bfcad6"/></svg>
+>>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinBlue-Dark/gnome-shell/assets/checkbox-off-focused-light.svg
