@@ -1,5 +1,1 @@
-<<<<<<< HEAD:.themes/ZorinRed-Dark/gnome-shell/assets/workspace-placeholder-light.svg
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="76"><rect width="76" height="4" y="10" rx="2" fill="#fdb4b4" x="-76" transform="rotate(270)" opacity=".5"/></svg>
-=======
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="76"><rect width="76" height="4" y="10" rx="2" fill="#572920" x="-76" transform="rotate(270)" opacity=".5"/></svg>
->>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinRed-Dark/gnome-shell/assets/workspace-placeholder-light.svg

@@ -1,5 +1,1 @@
-<<<<<<< HEAD:.themes/ZorinGreen-Light/gnome-shell/assets/texture-light.svg
-<svg xmlns="http://www.w3.org/2000/svg" width="66" height="66" fill="#bbf1dd"><circle cx="33" cy="33" r="1" opacity=".1"/><circle cx="65" cy="33" r="1" opacity=".1"/><circle cx="33" cy="65" r="1" opacity=".1"/><circle cx="65" cy="65" r="1" opacity=".2"/></svg>
-=======
 <svg xmlns="http://www.w3.org/2000/svg" width="66" height="66" fill="#19483e"><circle cx="33" cy="33" r="1" opacity=".125"/><circle cx="65" cy="33" r="1" opacity=".125"/><circle cx="33" cy="65" r="1" opacity=".125"/><circle cx="65" cy="65" r="1" opacity=".25"/></svg>
->>>>>>> a0b2ca1b49527817c4a633f4d50740e77cf6e208:ZorinGreen-Light/gnome-shell/assets/texture-light.svg
